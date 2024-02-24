@@ -2,4 +2,4 @@
                                                        Renovski
 ```
 
-- Python developer with 2 years experience
+`Python developer with 2 years experience`
