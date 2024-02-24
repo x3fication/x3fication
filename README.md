@@ -1,3 +1,3 @@
 ```
-Python coder with 2 years experience
+Python developer with 2 years experience
 ```
