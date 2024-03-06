@@ -13,8 +13,8 @@ I'm a **Python developer** with a passion for coding. (ﾉ◕ヮ◕)ﾉ*:･ﾟ�
 
 ## 🌟 Connect
 
-[![Discord](https://img.shields.io/badge/Discord-Chat-blue?style=for-the-badge&logo=discord)](https://discord.gg/trolling) Ψ(￣∀￣)Ψ
+[![Discord](https://img.shields.io/badge/Discord-Chat-blue?style=for-the-badge&logo=discord)](https://discord.gg/trolling)
 
-[![Tlegram](https://img.shields.io/badge/Telegram-Chat-blue?style=for-the-badge&logo=telegram)](https://t.me/trolling) (◠‿◠✿)
+[![Telegram](https://img.shields.io/badge/Telegram-Chat-blue?style=for-the-badge&logo=telegram)](https://t.me/trolling)
 
 </div>
