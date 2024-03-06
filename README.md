@@ -7,6 +7,7 @@ I'm a Python developer with a passion for coding. (ﾉ◕ヮ◕)ﾉ*:･ﾟ✧
 ## 💖 Skills
 
  Python (ﾉ◕ヮ◕)ﾉ*:･ﾟ✧
+ 
  Cybersecurity ☆*: .｡. o(≧▽≦)o .｡.:*☆
 
 ## 💌 Connect
