@@ -6,7 +6,7 @@ I'm a Python developer with a passion for coding. (ﾉ◕ヮ◕)ﾉ*:･ﾟ✧
 
 ## 💖 Skills
 
-- Python (ﾉ◕ヮ◕)ﾉ*:･ﾟ✧
+ Python (ﾉ◕ヮ◕)ﾉ*:･ﾟ✧
 
 ## 🌈 Projects
 
@@ -20,7 +20,7 @@ Coding in the shadows~ (◕‿◕✿)
 
 ## 💌 Connect
 
-- Dicord: https://discord.gg/trolling Ψ(￣∀￣)Ψ
-- Telegram: https://discord.gg/trolling (◠‿◠✿)
+ Dicord: https://discord.gg/trolling Ψ(￣∀￣)Ψ
+ Telegram: https://discord.gg/trolling (◠‿◠✿)
 
 </div>
