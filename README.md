@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://cdn.discordapp.com/attachments/1211039969871667354/1214980176941809684/1197bdeda7b4585fa36a5618f738dcf7-removebg-preview.png" alt="Icon" width="100"/>
+<img src="https://kys.confusing.wtf/r/iFdBKN.png" alt="Icon" width="100"/>
 
 # Hello, I'm Renovski! ฅ^•ﻌ•^ฅ
 
