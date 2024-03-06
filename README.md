@@ -20,6 +20,7 @@ Coding in the shadows~ (◕‿◕✿)
 
 ## 💌 Connect
 
-- GitHub: [tomraccoonery](https://github.com/tomraccoonery) (◠‿◠✿)
+- Dicord: https://discord.gg/trolling Ψ(￣∀￣)Ψ
+- Telegram: https://discord.gg/trolling (◠‿◠✿)
 
 </div>
