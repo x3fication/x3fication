@@ -2,9 +2,9 @@
 
 <img src="https://kys.confusing.wtf/r/iFdBKN.png" alt="Icon" width="100"/>
 
-# **Hello, I'm Renovski!** ฅ^•ﻌ•^ฅ
+# **Hello, I'm Kinu!** ฅ^•ﻌ•^ฅ
 
-I'm a **Python developer** with a passion for coding. (ﾉ◕ヮ◕)ﾉ*:･ﾟ✧
+I'm a **developer** with a passion for coding. (ﾉ◕ヮ◕)ﾉ*:･ﾟ✧
 
 ## 💖 Skills
 
