@@ -1,7 +1,6 @@
 <h1 align="center">
   <img src="https://i.pinimg.com/736x/6a/bf/45/6abf45aa03f036c404ef09a00d9e9e81.jpg" alt="Header Image" style="width:100%; max-width:600px;"/>
 </h1>
-<h1 align="center">Hi 👋, I'm Renovsk</h1>
 <h3 align="center">A passionate developer</h3>
 
 <p align="center"> 
