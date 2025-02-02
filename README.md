@@ -73,13 +73,10 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=renovsk&show_icons=true&locale=en&layout=compact" alt="renovsk" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=renovsk&show_icons=true&locale=en" alt="renovsk" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=renovsk&" alt="renovsk" />
 </p>
+<!--
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=renovsk&" alt="renovsk" />
+</p>--!>
