@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://i.pinimg.com/736x/89/a7/43/89a74314f92b88f9d0789a315f59f6b3.jpg" alt="Header Image" style="width:100%; max-width:600px;"/>
+  <img src="https://i.pinimg.com/736x/6a/bf/45/6abf45aa03f036c404ef09a00d9e9e81.jpg" alt="Header Image" style="width:100%; max-width:600px;"/>
 </h1>
 <h1 align="center">Hi 👋, I'm Renovsk</h1>
 <h3 align="center">A passionate developer</h3>
