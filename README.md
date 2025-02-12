@@ -21,7 +21,7 @@
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-  <a href="https://www.youtube.com/c/zedacat" target="blank">
+  <a href="https://www.youtube.com/@%E6%AE%8B%E5%BF%8D%E7%9A%84" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="zedacat" height="30" width="40" />
   </a>
   <a href="https://discord.gg/confusing" target="blank">
