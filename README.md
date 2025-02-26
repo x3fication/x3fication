@@ -14,7 +14,7 @@
 </p>
 
 <ul align="center">
-  <li>💡 I’m currently working on <a href="https://github.com/Renovsk/eternal">eternal</a></li>
+  <li>💡 I’m currently working on <a href="https://github.com/ck-clarity">clarity</a></li>
   <li>📧 How to reach me: <strong>crypter@duck.com</strong></li>
   <li>⚡ Fun fact: <strong>braindead</strong></li>
 </ul>
