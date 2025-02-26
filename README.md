@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://i.pinimg.com/736x/8d/98/24/8d9824bd65700fe00ee6d1a8a38ed4e7.jpg" alt="Header Image" style="width:50%; max-width:600px;"/>
+  <img src="https://i.pinimg.com/736x/8d/98/24/8d9824bd65700fe00ee6d1a8a38ed4e7.jpg" alt="Header Image" style="width:100%; max-width:600px;"/>
 </h1>
 <h3 align="center">A passionate developer</h3>
 
