@@ -1,10 +1,10 @@
 <h1 align="center">
   <img src="https://r2.e-z.host/049cab41-5ed3-4a5c-a42f-5b83b721f333/pl71ntej.png" alt="Header Image" style="width:70%; max-width:600px;"/>
 </h1>
-<h3 align="center">A passionate developer</h3>
+<h3 align="center">ᴀ ᴘᴀꜱꜱɪᴏɴᴀᴛᴇ ᴅᴇᴠᴇʟᴏᴘᴇʀ</h3>
 
 <p align="center"> 
-  <img src="https://komarev.com/ghpvc/?username=renovsk&label=Profile%20views&color=000000&style=for-the-badge" alt="renovsk" /> 
+  <img src="https://komarev.com/ghpvc/?username=renovsk&label=ᴘʀᴏꜰɪʟᴇ%20ᴠɪᴇᴡꜱ&color=000000&style=for-the-badge" alt="renovsk" /> 
 </p>
 
 <p align="center">
@@ -18,14 +18,14 @@
 </p>
 
 <ul align="center">
-  <li>💡 I’m currently working on <a href="https://github.com/ck-clarity">clarity</a></li>
-  <li>📧 How to reach me: <strong>crypter@duck.com</strong></li>
-  <li>⚡ Fun fact: <strong>braindead</strong></li>
+  <li>🏳️‍⚧️ ɪ’ᴍ ᴄᴜʀʀᴇɴᴛʟʏ ᴡᴏʀᴋɪɴɢ ᴏɴ <a href="https://github.com/ck-clarity">ᴄʟᴀʀɪᴛʏ</a></li>
+  <li>🌺 ʜᴏᴡ ᴛᴏ ʀᴇᴀᴄʜ ᴍᴇ: <strong>ᴄʀʏᴘᴛᴇʀ@ᴅᴜᴄᴋ.ᴄᴏᴍ</strong></li>
+  <li>🩷 ꜰᴜɴ ꜰᴀᴄᴛ: <strong>ʙʀᴀɪɴᴅᴇᴀᴅ</strong></li>
 </ul>
 
-<h3 align="center">Connect with me:</h3>
+<h3 align="center">ᴄᴏɴɴᴇᴄᴛ ᴡɪᴛʜ ᴍᴇ:</h3>
 <p align="center">
-  <a href="https://www.youtube.com/@%E6%AE%8B%E5%BF%8D%E7%9A%84" target="blank">
+  <a href="https://www.youtube.com/@x3ten" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="zedacat" height="30" width="40" />
   </a>
   <a href="https://discord.gg/confusing" target="blank">
@@ -33,7 +33,7 @@
   </a>
 </p>
 
-<h3 align="center">Languages and Tools:</h3>
+<h3 align="center">ʟᴀɴɢᴜᴀɢᴇꜱ ᴀɴᴅ ᴛᴏᴏʟꜱ:</h3>
 <p align="center"> 
   <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> 
