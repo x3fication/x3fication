@@ -28,7 +28,7 @@
   <a href="https://www.youtube.com/@x3ten" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="zedacat" height="30" width="40" />
   </a>
-  <a href="https://discord.gg/confusing" target="blank">
+  <a href="https://discord.gg/disabler" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="confusing" height="30" width="40" />
   </a>
 </p>
