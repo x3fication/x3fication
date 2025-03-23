@@ -4,12 +4,12 @@
 <h3 align="center">A passionate developer</h3>
 
 <p align="center"> 
-  <img src="https://komarev.com/ghpvc/?username=renovsk&label=Profile%20views&color=4f0b06&style=for-the-badge" alt="renovsk" /> 
+  <img src="https://komarev.com/ghpvc/?username=renovsk&label=Profile%20views&color=fee0ff&style=for-the-badge" alt="renovsk" /> 
 </p>
 
 <p align="center"> 
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=renovsk&theme=onestar&no-bg=true&margin-w=5&margin-h=5&title_color=4f0b06" alt="renovsk" />
+    <img src="https://github-profile-trophy.vercel.app/?username=renovsk&theme=onestar&no-bg=true&margin-w=5&margin-h=5&title_color=fee0ff" alt="renovsk" />
   </a> 
 </p>
 
@@ -58,6 +58,6 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=renovsk&show_icons=true&locale=en&title_color=4f0b06&icon_color=4f0b06&text_color=4f0b06&bg_color=fffefe&style=for-the-badge" alt="renovsk" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=renovsk&ring=4f0b06&fire=4f0b06&sideNums=4f0b06&currStreakLabel=4f0b06&style=for-the-badge" alt="renovsk" />
+  <img src="https://github-readme-stats.vercel.app/api?username=renovsk&show_icons=true&locale=en&title_color=fee0ff&icon_color=fee0ff&text_color=fee0ff&bg_color=e0f0ff&style=for-the-badge" alt="renovsk" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=renovsk&ring=fee0ff&fire=fee0ff&sideNums=fee0ff&currStreakLabel=fee0ff&style=for-the-badge" alt="renovsk" />
 </p>
