@@ -1,7 +1,7 @@
 <h1 align="center">
   <img src="https://r2.e-z.host/049cab41-5ed3-4a5c-a42f-5b83b721f333/pl71ntej.png" alt="Header Image" style="width:70%; max-width:600px;"/>
 </h1>
-<h3 align="center">ᴀ ᴘᴀꜱꜱɪᴏɴᴀᴛᴇ ᴅᴇᴠᴇʟᴏᴘᴇʀ</h3>
+<h3 align="center">𝗔 𝗽𝗮𝘀𝘀𝗶𝗼𝗻𝗮𝘁𝗲 𝗱𝗲𝘃𝗲𝗹𝗼𝗽𝗲𝗿</h3>
 
 <p align="center"> 
   <img src="https://komarev.com/ghpvc/?username=renovsk&label=Profile%20views&color=000000&style=for-the-badge" alt="renovsk" /> 
