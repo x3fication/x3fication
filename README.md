@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://r2.e-z.host/049cab41-5ed3-4a5c-a42f-5b83b721f333/rry5dybr.jpg" alt="Header Image" style="width:100%; max-width:600px;"/>
+  <img src="https://r2.e-z.host/049cab41-5ed3-4a5c-a42f-5b83b721f333/rry5dybr.jpg" alt="Header Image" style="width:50%; max-width:600px;"/>
 </h1>
 <h3 align="center">A passionate developer</h3>
 
