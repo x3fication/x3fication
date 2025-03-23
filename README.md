@@ -4,7 +4,7 @@
 <h3 align="center">ᴀ ᴘᴀꜱꜱɪᴏɴᴀᴛᴇ ᴅᴇᴠᴇʟᴏᴘᴇʀ</h3>
 
 <p align="center"> 
-  <img src="https://komarev.com/ghpvc/?username=renovsk&label=ᴘʀᴏꜰɪʟᴇ%20ᴠɪᴇᴡꜱ&color=000000&style=for-the-badge" alt="renovsk" /> 
+  <img src="https://komarev.com/ghpvc/?username=renovsk&label=Profile%20views&color=000000&style=for-the-badge" alt="renovsk" /> 
 </p>
 
 <p align="center">
