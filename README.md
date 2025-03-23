@@ -59,5 +59,5 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=renovsk&show_icons=true&locale=en&title_color=fee0ff&icon_color=fee0ff&text_color=fee0ff&bg_color=000000&style=for-the-badge" alt="renovsk" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=renovsk&ring=fee0ff&fire=fee0ff&sideNums=fee0ff&currStreakLabel=fee0ff&style=for-the-badge" alt="renovsk" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=renovsk&ring=fee0ff&fire=fee0ff&sideNums=fee0ff&currStreakLabel=fee0ff&bg_color=000000&style=for-the-badge" alt="renovsk" />
 </p>
