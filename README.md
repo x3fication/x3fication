@@ -4,7 +4,7 @@
 <h3 align="center">𝗔 𝗽𝗮𝘀𝘀𝗶𝗼𝗻𝗮𝘁𝗲 𝗱𝗲𝘃𝗲𝗹𝗼𝗽𝗲𝗿</h3>
 
 <p align="center"> 
-  <img src="https://komarev.com/ghpvc/?username=renovsk&label=Profile%20views&color=fffffff&style=for-the-badge" alt="renovsk" /> 
+  <img src="https://komarev.com/ghpvc/?username=renovsk&label=Profile%20views&color=ffffff&style=for-the-badge" alt="renovsk" /> 
 </p>
 
 <p align="center">
