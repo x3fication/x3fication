@@ -4,11 +4,11 @@
 <h3 align="center">𝗔 𝗽𝗮𝘀𝘀𝗶𝗼𝗻𝗮𝘁𝗲 𝗱𝗲𝘃𝗲𝗹𝗼𝗽𝗲𝗿</h3>
 
 <p align="center"> 
-  <img src="https://komarev.com/ghpvc/?username=renovsk&label=Profile%20views&color=ffffff&style=for-the-badge" alt="renovsk" /> 
+  <img src="https://komarev.com/ghpvc/?username=renovsk&label=Profile%20views&color=7096ff&style=for-the-badge" alt="renovsk" /> 
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=renovsk&show_icons=true&locale=en&title_color=fee0ff&icon_color=fee0ff&text_color=fee0ff&bg_color=000000&style=for-the-badge" alt="renovsk" />
+  <img src="https://github-readme-stats.vercel.app/api?username=renovsk&show_icons=true&locale=en&title_color=7096ff&icon_color=7096ff&text_color=7096ff&bg_color=ffffff&style=for-the-badge" alt="renovsk" />
 </p>
 
 <p align="center"> 
