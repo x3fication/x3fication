@@ -18,9 +18,9 @@
 </p>
 
 <ul align="center">
-  <li>🏳️‍⚧️ ɪ’ᴍ ᴄᴜʀʀᴇɴᴛʟʏ ᴡᴏʀᴋɪɴɢ ᴏɴ <a href="https://github.com/ck-clarity">ᴄʟᴀʀɪᴛʏ</a></li>
-  <li>🌺 ʜᴏᴡ ᴛᴏ ʀᴇᴀᴄʜ ᴍᴇ: <strong>ᴄʀʏᴘᴛᴇʀ@ᴅᴜᴄᴋ.ᴄᴏᴍ</strong></li>
-  <li>🩷 ꜰᴜɴ ꜰᴀᴄᴛ: <strong>ʙʀᴀɪɴᴅᴇᴀᴅ</strong></li>
+  <li>🔹 ɪ’ᴍ ᴄᴜʀʀᴇɴᴛʟʏ ᴡᴏʀᴋɪɴɢ ᴏɴ <a href="https://github.com/ck-clarity">ᴄʟᴀʀɪᴛʏ</a></li>
+  <li>🔹 ʜᴏᴡ ᴛᴏ ʀᴇᴀᴄʜ ᴍᴇ: <strong>ᴄʀʏᴘᴛᴇʀ@ᴅᴜᴄᴋ.ᴄᴏᴍ</strong></li>
+  <li>🔹 ꜰᴜɴ ꜰᴀᴄᴛ: <strong>ʙʀᴀɪɴᴅᴇᴀᴅ</strong></li>
 </ul>
 
 <h3 align="center">ᴄᴏɴɴᴇᴄᴛ ᴡɪᴛʜ ᴍᴇ:</h3>
