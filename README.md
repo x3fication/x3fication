@@ -19,7 +19,7 @@
 
 <ul align="center">
   <li>🔹 ɪ’ᴍ ᴄᴜʀʀᴇɴᴛʟʏ ᴡᴏʀᴋɪɴɢ ᴏɴ <a href="https://github.com/Renovsk/Banana">Banana</a></li>
-  <li>🔹 ʜᴏᴡ ᴛᴏ ʀᴇᴀᴄʜ ᴍᴇ: <strong>gobuster@duck.comk</strong></li>
+  <li>🔹 ʜᴏᴡ ᴛᴏ ʀᴇᴀᴄʜ ᴍᴇ: <strong>gobuster@duck.com</strong></li>
   <li>🔹 ꜰᴜɴ ꜰᴀᴄᴛ: <strong>idk bro</strong></li>
 </ul>
 
