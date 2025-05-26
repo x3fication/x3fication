@@ -4,23 +4,22 @@
 <h3 align="center">𝗔 𝗽𝗮𝘀𝘀𝗶𝗼𝗻𝗮𝘁𝗲 𝗱𝗲𝘃𝗲𝗹𝗼𝗽𝗲𝗿</h3>
 
 <p align="center"> 
-  <img src="https://komarev.com/ghpvc/?username=renovsk&label=Profile%20views&color=7096ff&style=for-the-badge" alt="renovsk" /> 
+  <img src="https://komarev.com/ghpvc/?username=x3fication&label=Profile%20views&color=7096ff&style=for-the-badge" alt="renovsk" /> 
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=renovsk&show_icons=true&locale=en&title_color=7096ff&icon_color=7096ff&text_color=7096ff&bg_color=ffffff&style=for-the-badge" alt="renovsk" />
+  <img src="https://github-readme-stats.vercel.app/api?username=x3fication&show_icons=true&locale=en&title_color=7096ff&icon_color=7096ff&text_color=7096ff&bg_color=ffffff&style=for-the-badge" alt="renovsk" />
 </p>
 
 <p align="center"> 
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=renovsk&theme=onestar&no-bg=true&margin-w=5&margin-h=5&title_color=fee0ff" alt="renovsk" />
+    <img src="https://github-profile-trophy.vercel.app/?username=x3fication&theme=onestar&no-bg=true&margin-w=5&margin-h=5&title_color=fee0ff" alt="renovsk" />
   </a> 
 </p>
 
 <ul align="center">
-  <li>🔹 ɪ’ᴍ ᴄᴜʀʀᴇɴᴛʟʏ ᴡᴏʀᴋɪɴɢ ᴏɴ <a href="https://github.com/Renovsk/Banana">Banana</a></li>
-  <li>🔹 ʜᴏᴡ ᴛᴏ ʀᴇᴀᴄʜ ᴍᴇ: <strong>gobuster@duck.com</strong></li>
-  <li>🔹 ꜰᴜɴ ꜰᴀᴄᴛ: <strong>idk bro</strong></li>
+  <li>🔹 ɪ’ᴍ ᴄᴜʀʀᴇɴᴛʟʏ ᴡᴏʀᴋɪɴɢ ᴏɴ <a href="https://github.com/x3fication/Banana">Banana</a></li>
+  <li>🔹 ʜᴏᴡ ᴛᴏ ʀᴇᴀᴄʜ ᴍᴇ: <strong>ohio@nigge.rs</strong></li>
 </ul>
 
 <h3 align="center">ᴄᴏɴɴᴇᴄᴛ ᴡɪᴛʜ ᴍᴇ:</h3>
