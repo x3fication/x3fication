@@ -35,7 +35,11 @@
   <tr>
     <td width="47%" valign="top">
 
-### 🧠 Languages & Tools
+<table>
+  <tr>
+    <td valign="top" width="50%">
+
+<h3>🧠 Languages & Tools</h3>
 
 ```bash
 Main Stack:
@@ -52,13 +56,14 @@ Tools I like:
 - GCP ☁️
 ```
 
-    </td>
-    <td width="6%"></td>
-    <td width="47%" valign="top">
+</td>
+<td valign="top" width="50%">
 
-### 🎯 Main Interests
+<h3>🎯 Main Interests</h3>
 
-<table align="right" width="100%" style="border:1px solid #444;border-radius:6px;background-color:#1e1e1e;color:#d4be98;">
+<div align="left">
+  
+<table style="border:1px solid #444;border-radius:6px;background-color:#1e1e1e;color:#d4be98;" width="100%">
   <tr><td>🛡️ Pentesting & Security</td></tr>
   <tr><td>🌐 Network & Proxy Tools</td></tr>
   <tr><td>🎮 Minecraft Modding & Clients</td></tr>
@@ -66,6 +71,9 @@ Tools I like:
   <tr><td>💣 Crashers & Exploit Research</td></tr>
 </table>
 
-    </td>
+</div>
+
+</td>
   </tr>
 </table>
+
