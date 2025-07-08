@@ -24,9 +24,6 @@
 
 <h3 align="center">🤝 Connect With Me</h3>
 <p align="center">
-  <a href="https://www.youtube.com/@x3ten" target="_blank">
-    <img src="https://skillicons.dev/icons?i=youtube" height="32"/>
-  </a>
   <a href="https://discord.gg/SvuUuT797t" target="_blank">
     <img src="https://skillicons.dev/icons?i=discord" height="32"/>
   </a>
