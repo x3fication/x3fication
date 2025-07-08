@@ -33,8 +33,8 @@
 
 <table width="100%">
   <tr>
-    <td width="70%">
-      
+    <td width="47%" valign="top">
+
 ### 🧠 Languages & Tools
 
 ```bash
@@ -50,3 +50,22 @@ Tools I like:
 - IntelliJ IDEA 🧠
 - Heroku ☁️
 - GCP ☁️
+```
+
+    </td>
+    <td width="6%"></td>
+    <td width="47%" valign="top">
+
+### 🎯 Main Interests
+
+<table align="right" width="100%" style="border:1px solid #444;border-radius:6px;background-color:#1e1e1e;color:#d4be98;">
+  <tr><td>🛡️ Pentesting & Security</td></tr>
+  <tr><td>🌐 Network & Proxy Tools</td></tr>
+  <tr><td>🎮 Minecraft Modding & Clients</td></tr>
+  <tr><td>🤖 Automation & Discord Tools</td></tr>
+  <tr><td>💣 Crashers & Exploit Research</td></tr>
+</table>
+
+    </td>
+  </tr>
+</table>
