@@ -31,11 +31,11 @@
 
 ---
 
-<table style="width:100%;">
+<table width="100%">
   <tr>
-    <td valign="top" width="50%" style="padding-right: 1rem;">
+    <td valign="top" width="47%">
 
-<h3>🧠 Languages & Tools</h3>
+### 🧠 Languages & Tools
 
 ```bash
 Main Stack:
@@ -53,17 +53,20 @@ Tools I like:
 ```
 
     </td>
-    <td valign="top" width="50%" style="padding-left: 1rem;">
+    <td width="6%"></td>
+    <td valign="top" width="47%">
 
-<h3>🎯 Main Interests</h3>
+### 🎯 Main Interests
 
-```bash
-🛡️ Pentesting & Security
-🌐 Network & Proxy Tools
-🎮 Minecraft Modding & Clients
-🤖 Automation & Discord Tools
-💣 Crashers & Exploit Research
-```
+<table width="100%" style="border:1px solid #444;border-radius:8px;background-color:#1e1e1e;color:#d4be98;padding:12px;">
+  <tbody>
+    <tr><td>🛡️ Pentesting & Security</td></tr>
+    <tr><td>🌐 Network & Proxy Tools</td></tr>
+    <tr><td>🎮 Minecraft Modding & Clients</td></tr>
+    <tr><td>🤖 Automation & Discord Tools</td></tr>
+    <tr><td>💣 Crashers & Exploit Research</td></tr>
+  </tbody>
+</table>
 
     </td>
   </tr>
