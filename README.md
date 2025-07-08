@@ -31,17 +31,19 @@
 
 ---
 
-<table width="100%" cellspacing="0" cellpadding="10">
+<table width="100%" cellspacing="0" cellpadding="10" style="background:#282c34; border-radius:8px; color:#abb2bf; font-family:monospace;">
   <tr>
-    <td valign="top" width="48%" style="background:#282c34; border-radius:8px; color:#abb2bf; font-family:monospace;">
-      <h3 style="color:#e5c07b;">🧠 Languages & Tools</h3>
+    <td valign="top" width="50%" style="border-right:1px solid #444;">
       <pre style="margin:0; white-space:pre-wrap;">
 Main Stack:
 - Python 🐍
 - Go ⚙️
 - Java ☕
 - Bash 🔧
-
+      </pre>
+    </td>
+    <td valign="top" width="50%">
+      <pre style="margin:0; white-space:pre-wrap;">
 Tools I like:
 - Docker 🐳
 - Git 🧬
@@ -50,17 +52,7 @@ Tools I like:
 - GCP ☁️
       </pre>
     </td>
-    <td valign="top" width="4%"></td>
-    <td valign="top" width="48%" style="background:#282c34; border-radius:8px; color:#d4be98; font-family:monospace;">
-      <h3 style="color:#d4be98;">🎯 Main Interests</h3>
-      <pre style="margin:0; white-space:pre-wrap;">
-🛡️ Pentesting & Security
-🌐 Network & Proxy Tools
-🎮 Minecraft Modding & Clients
-🤖 Automation & Discord Tools
-💣 Crashers & Exploit Research
-      </pre>
-    </td>
   </tr>
 </table>
+
 
