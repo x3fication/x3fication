@@ -31,13 +31,11 @@
 
 ---
 
-<table width="100%">
+<table width="100%" cellspacing="0" cellpadding="10">
   <tr>
-    <td valign="top" width="47%">
-
-### 🧠 Languages & Tools
-
-```bash
+    <td valign="top" width="48%" style="background:#282c34; border-radius:8px; color:#abb2bf; font-family:monospace;">
+      <h3 style="color:#e5c07b;">🧠 Languages & Tools</h3>
+      <pre style="margin:0; white-space:pre-wrap;">
 Main Stack:
 - Python 🐍
 - Go ⚙️
@@ -50,24 +48,18 @@ Tools I like:
 - IntelliJ IDEA 🧠
 - Heroku ☁️
 - GCP ☁️
-```
-
+      </pre>
     </td>
-    <td width="6%"></td>
-    <td valign="top" width="47%">
-
-### 🎯 Main Interests
-
-<table width="100%" style="border:1px solid #444;border-radius:8px;background-color:#1e1e1e;color:#d4be98;padding:12px;">
-  <tbody>
-    <tr><td>🛡️ Pentesting & Security</td></tr>
-    <tr><td>🌐 Network & Proxy Tools</td></tr>
-    <tr><td>🎮 Minecraft Modding & Clients</td></tr>
-    <tr><td>🤖 Automation & Discord Tools</td></tr>
-    <tr><td>💣 Crashers & Exploit Research</td></tr>
-  </tbody>
-</table>
-
+    <td valign="top" width="4%"></td>
+    <td valign="top" width="48%" style="background:#282c34; border-radius:8px; color:#d4be98; font-family:monospace;">
+      <h3 style="color:#d4be98;">🎯 Main Interests</h3>
+      <pre style="margin:0; white-space:pre-wrap;">
+🛡️ Pentesting & Security
+🌐 Network & Proxy Tools
+🎮 Minecraft Modding & Clients
+🤖 Automation & Discord Tools
+💣 Crashers & Exploit Research
+      </pre>
     </td>
   </tr>
 </table>
