@@ -8,12 +8,12 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=x3fication&show_icons=true&locale=en&title_color=7096ff&icon_color=7096ff&text_color=7096ff&bg_color=ffffff&style=for-the-badge" alt="renovsk" />
+  <img src="https://github-readme-stats.vercel.app/api?username=x3fication&theme=onedark&show_icons=true" alt="renovsk" />
 </p>
 
 <p align="center"> 
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=x3fication&theme=darkhub" alt="renovsk" />
+    <img src="https://github-profile-trophy.vercel.app/?username=x3fication&theme=onedark" alt="renovsk" />
   </a> 
 </p>
 
