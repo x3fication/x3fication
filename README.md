@@ -9,10 +9,6 @@
 </p>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=x3fication&theme=gruvbox&show_icons=true&no-frame=true&hide_title=true&hide_border=true" />
-</div>
-
-<div align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=x3fication&theme=gruvbox&no-bg=true&no-frame=true&column=4" alt="Trophies"/>
   </a>
