@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://r2.e-z.host/049cab41-5ed3-4a5c-a42f-5b83b721f333/9fyqbfx5.png" alt="Header Image" width="100%" style="max-width:600px;" />
+  <img src="https://files.catbox.moe/gc60f3.jpg" alt="Header Image" width="100%" style="max-width:600px;" />
 </h1>
 
 <h3 align="center" style="color:#e5c07b;">𝗔 𝗽𝗮𝘀𝘀𝗶𝗼𝗻𝗮𝘁𝗲 𝗱𝗲𝘃𝗲𝗹𝗼𝗽𝗲𝗿</h3>
