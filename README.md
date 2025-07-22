@@ -1,7 +1,3 @@
-<h1 align="center">
-  <img src="https://github.com/user-attachments/assets/baaa8ab4-c222-4ea4-b13e-c2ffabcfcedf" alt="Header Image" width="70%" style="max-width:600px;" />
-</h1>
-
 <h3 align="center" style="color:#e5c07b;">𝗔 𝗽𝗮𝘀𝘀𝗶𝗼𝗻𝗮𝘁𝗲 𝗱𝗲𝘃𝗲𝗹𝗼𝗽𝗲𝗿</h3>
 
 <p align="center">
