@@ -1,7 +1,6 @@
 <div style="display: flex; justify-content: center;">
   <table width="100%" cellspacing="0" cellpadding="10" style="max-width: 900px; background:#282c34; border-radius:8px; color:#abb2bf; font-family:monospace;">
     <tr>
-      <!-- Left Column -->
       <td valign="top" width="45%" style="border-right:1px solid #444;">
         <pre style="margin:0; white-space:pre-wrap;">
 Main Stack:
