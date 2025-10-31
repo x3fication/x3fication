@@ -12,8 +12,6 @@ Main Stack:
 - Bash 🔧
         </pre>
       </td>
-
-      <!-- Middle Column -->
       <td valign="top" width="45%" style="border-right:1px solid #444;">
         <pre style="margin:0; white-space:pre-wrap;">
 Tools I like:
@@ -25,8 +23,6 @@ Tools I like:
 - GCP ☁️
         </pre>
       </td>
-
-      <!-- Right Column -->
       <td valign="top" width="10%" style="padding-left:12px; white-space: pre; font-family: monospace; color:#d4be98;">
         <pre style="margin:0;">
        ____   __ _           _   _             
