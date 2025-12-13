@@ -5,7 +5,7 @@
 
 <div align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=x3fication&theme=alduin&no-bg=true&no-frame=true&column=4" alt="Trophies"/>
+    <img src="https://github-trophies.vercel.app/?username=x3fication" alt="Trophies"/>
   </a>
 </div>
 <hr/>
