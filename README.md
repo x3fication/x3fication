@@ -3,13 +3,6 @@
   <img src="https://komarev.com/ghpvc/?username=x3fication&label=Profile%20views&color=7fbbb3&style=for-the-badge" alt="profile views"/>
 </p>
 
-<div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-trophies.vercel.app/?username=x3fication" alt="Trophies"/>
-  </a>
-</div>
-<hr/>
-
 <h3 align="center">🚧 𝗪𝗼𝗿𝗸 𝗶𝗻 𝗣𝗿𝗼𝗴𝗿𝗲𝘀𝘀</h3>
 <p align="center">
   🔹 Working on <a href="https://github.com/x3fication/Banana"><strong>Banana</strong></a><br/>
