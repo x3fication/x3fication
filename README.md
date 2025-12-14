@@ -3,12 +3,6 @@
   <img src="https://komarev.com/ghpvc/?username=x3fication&label=Profile%20views&color=c6b79a&style=for-the-badge" alt="profile views"/>
 </p>
 
-<h3 align="center">🚧 𝗪𝗼𝗿𝗸 𝗶𝗻 𝗣𝗿𝗼𝗴𝗿𝗲𝘀𝘀</h3>
-<p align="center">
-  🔹 Working on <a href="https://github.com/x3fication/Banana"><strong>Banana</strong></a><br/>
-  🔹 Reach me at: <code>ohio@nigge.rs</code>
-</p>
-
 <h3 align="center">🤝 Connect With Me</h3>
 <p align="center">
   <a href="https://discord.gg/SvuUuT797t" target="_blank">
