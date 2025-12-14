@@ -1,6 +1,6 @@
 <h3 align="center" style="color:#e5c07b;">𝗔 𝗽𝗮𝘀𝘀𝗶𝗼𝗻𝗮𝘁𝗲 𝗱𝗲𝘃𝗲𝗹𝗼𝗽𝗲𝗿</h3>
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=x3fication&label=Profile%20views&color=7fbbb3&style=for-the-badge" alt="profile views"/>
+  <img src="https://komarev.com/ghpvc/?username=x3fication&label=Profile%20views&color=c6b79a&style=for-the-badge" alt="profile views"/>
 </p>
 
 <h3 align="center">🚧 𝗪𝗼𝗿𝗸 𝗶𝗻 𝗣𝗿𝗼𝗴𝗿𝗲𝘀𝘀</h3>
