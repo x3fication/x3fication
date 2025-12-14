@@ -1,5 +1,4 @@
 <h3 align="center" style="color:#e5c07b;">𝗔 𝗽𝗮𝘀𝘀𝗶𝗼𝗻𝗮𝘁𝗲 𝗱𝗲𝘃𝗲𝗹𝗼𝗽𝗲𝗿</h3>
-<p align="center"><img src="https://c4.wallpaperflare.com/wallpaper/818/539/644/minimalism-gruvbox-wallpaper-preview.jpg"></p>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=x3fication&label=Profile%20views&color=7fbbb3&style=for-the-badge" alt="profile views"/>
 </p>
